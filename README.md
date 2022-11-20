@@ -1,4 +1,4 @@
-# Capston-project
+# Capstone-project
 The Capstone project combine what we have learned in the preceding courses on SQL, Spreadsheets, and Tableau. The project includes 2 main parts with subtasks inside:
 
 1- Data Exploration and Analysis using SQL, Spreadsheets and Tableau
