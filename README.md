@@ -11,3 +11,11 @@ The online sector has been slowly eating up market share in the past two decades
 Let's suppose that the Unicorn is a family business and is owned by 2 owners who are very invested in their business. They already have a small data analytics team but want to expand it significantly next few months.
 
 Our task is to analyze the data, find interesting insights and identify weak areas and opportunities for Unicorn to boost business growth.
+
+<b>Prepared Dashboard for Unicorn:</b>
+https://docs.google.com/spreadsheets/d/1UZo9NuG1Xbs54qp2u_4fFdpnN3COVvnCgu2KoWK_ALc/edit?usp=sharing
+
+<b>Prepared Dashboard for Unicorn in Tableau:</b>
+https://public.tableau.com/app/profile/alham.hotaki/viz/UnicornStory/Story1
+
+
